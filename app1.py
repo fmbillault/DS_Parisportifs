@@ -16,7 +16,7 @@ from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pickle as 
+import pickle 
 
 # Load the original image
 original_image = Image.open("logo_datascientest.png")
